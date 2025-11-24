@@ -30,7 +30,7 @@ function App() {
             className={view === 'results' ? 'nav-btn active' : 'nav-btn'}
             onClick={() => setView('results')}
           >
-            Results
+            Results (Mock)
           </button>
           
           <BackendSettings />
