@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "avg_hr": 62,
+    "avg_sound_db": 39.8,
+    "avg_sleep_minutes": 427,
+    "rem_ratio": 0.21
+  },
+  "weekly_trend": {
+    "dates": ["2025-11-10","2025-11-11","2025-11-12","2025-11-13","2025-11-14","2025-11-15","2025-11-16"],
+    "sleep_minutes": [420,395,450,430,410,440,425]
+  },
+  "sleep_stage_distribution": {
+    "labels": ["REM","Light","Deep"],
+    "minutes": [90,260,86]
+  }
+}

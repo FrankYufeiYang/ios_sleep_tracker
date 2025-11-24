@@ -1,0 +1,36 @@
+{
+  "demographics": { "gender": "female", "height_cm": 165, "weight_kg": 60 },
+  "sleep_sessions": [
+    { "date": "2025-11-10", "total_minutes": 420, "rem_minutes": 90, "light_minutes": 240, "deep_minutes": 90 },
+    { "date": "2025-11-11", "total_minutes": 395, "rem_minutes": 80, "light_minutes": 230, "deep_minutes": 85 },
+    { "date": "2025-11-12", "total_minutes": 450, "rem_minutes": 100, "light_minutes": 270, "deep_minutes": 80 },
+    { "date": "2025-11-13", "total_minutes": 430, "rem_minutes": 95, "light_minutes": 255, "deep_minutes": 80 },
+    { "date": "2025-11-14", "total_minutes": 410, "rem_minutes": 85, "light_minutes": 250, "deep_minutes": 75 },
+    { "date": "2025-11-15", "total_minutes": 440, "rem_minutes": 92, "light_minutes": 268, "deep_minutes": 80 },
+    { "date": "2025-11-16", "total_minutes": 425, "rem_minutes": 88, "light_minutes": 260, "deep_minutes": 77 }
+  ],
+  "heart_rate": [
+    { "t": "2025-11-16T23:00:00Z", "bpm": 68 },
+    { "t": "2025-11-16T23:30:00Z", "bpm": 65 },
+    { "t": "2025-11-17T00:00:00Z", "bpm": 63 },
+    { "t": "2025-11-17T00:30:00Z", "bpm": 62 },
+    { "t": "2025-11-17T01:00:00Z", "bpm": 60 },
+    { "t": "2025-11-17T01:30:00Z", "bpm": 61 },
+    { "t": "2025-11-17T02:00:00Z", "bpm": 62 },
+    { "t": "2025-11-17T02:30:00Z", "bpm": 63 },
+    { "t": "2025-11-17T03:00:00Z", "bpm": 64 },
+    { "t": "2025-11-17T03:30:00Z", "bpm": 66 }
+  ],
+  "sound_levels": [
+    { "t": "2025-11-16T23:00:00Z", "db": 40 },
+    { "t": "2025-11-16T23:30:00Z", "db": 42 },
+    { "t": "2025-11-17T00:00:00Z", "db": 38 },
+    { "t": "2025-11-17T00:30:00Z", "db": 37 },
+    { "t": "2025-11-17T01:00:00Z", "db": 36 },
+    { "t": "2025-11-17T01:30:00Z", "db": 39 },
+    { "t": "2025-11-17T02:00:00Z", "db": 41 },
+    { "t": "2025-11-17T02:30:00Z", "db": 40 },
+    { "t": "2025-11-17T03:00:00Z", "db": 42 },
+    { "t": "2025-11-17T03:30:00Z", "db": 43 }
+  ]
+}
